@@ -1,0 +1,14 @@
+.button {
+    display: inline-block;
+    padding: 6px 12px; /* Ajuste o padding conforme necessário para alinhar com os outros links */
+    margin: 0 10px; /* Margem entre o botão e os links */
+    color: white;
+    background-color: #d4af37;
+    text-decoration: none;
+    border-radius:25px;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #b8860b;
+}
